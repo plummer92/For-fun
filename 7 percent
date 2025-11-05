@@ -1,0 +1,12 @@
+sportsbook-investor/
+├─ app.py
+├─ requirements.txt
+├─ README.md
+├─ .gitignore
+├─ .streamlit/
+│  └─ config.toml
+├─ pages/
+│  ├─ 01_Backtest_Strategy.py
+│  └─ 02_Kelly_and_Risk.py
+└─ data/
+   └─ sample_trades.csv
